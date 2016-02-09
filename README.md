@@ -1,5 +1,5 @@
 # The Task
-Your task is to develop a small RESTFull service in java. You need you to build your application in your own GitHub repository. Once you are done, send us a link to your repository.
+Your task is to develop a small RESTFull service in java. You need you to build your application in your own GitHub repository. Please don't fork this code base. Once you are done, send us a link to your repository.
 
 Please allow yourself at least 2 hours of uninterrupted time for this task, but feel free to spend as much time on the task as you like and make the solution and the code as perfect as you like.
 
