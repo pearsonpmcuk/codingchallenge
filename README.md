@@ -13,15 +13,15 @@ https://github.com/pearsonpmcuk/codingchallenge/blob/master/stores.csv
 Rest APIs are needed to answer the following questions:
 
 * Retrieve a store by id
-* Retrieve all stores in given order. Cities can be ordered by  name or open date
+* Retrieve all stores in given order. Stores can be ordered by city name or open date
 * A store object returned by the APIs  must include an attribute indicating  how many days the store was opened for
 * Create a store . API signature is enough for this method. You can leave the implementation empty .  API should only return 201 Created with empty body.
-* API should return JSON 
+* APIs should return JSON  documents.
 * Use meaningful HTTP response codes. Follow the best REST API practices. 
 
 Bonus : 
 * We realize that source of data may respond slowly during peak times  . Cache the [source](https://github.com/pearsonpmcuk/codingchallenge/blob/master/stores.csv).The source is  guaranteed not to exceed 10mb and 10000 stores.
-* It is acceptable return a stale data up to max 1 hour.
+* It is acceptable to return a stale data up to max 1 hour.
 
 
 # What we are  looking for (and what we are not):
