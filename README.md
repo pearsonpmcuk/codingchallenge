@@ -7,7 +7,7 @@ Please allow yourself at least 2 hours of uninterrupted time for this task, but 
 
 Your application needs to read the list of stores from this URL.
 
-(https://github.com/pearsonpmcuk/codingchallenge/blob/master/stores.csv)
+https://github.com/pearsonpmcuk/codingchallenge/blob/master/stores.csv
 
 
 Rest APIs are needed to answer the following questions:
