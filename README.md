@@ -28,7 +28,7 @@ Bonus :
 
 
 * Feel free to use any dependency management and build tools eg maven. gradle eg
-* Make sure your design and implementation is simple. It should only the things speficied in the application section.  Not more, not less.
+* Make sure your design and implementation is simple. It should do only the things speficied in the application section.  Not more, not less.
 * Make sure your code includes unit tests. ( acceptance tests are bonus )
 * Feel free to use any java libraries you feel appropriate. spring-boot, resteasy, jersey eg
 * Please do not use any database.  We are more interested in your Java skills 
