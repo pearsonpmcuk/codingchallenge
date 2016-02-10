@@ -27,10 +27,10 @@ Bonus :
 # What we are  looking for (and what we are not):
 
 
-* Feel free to use any dependency management and build tools eg maven. gradle eg
-* Make sure your design and implementation is simple. It should do only the things speficied in the application section.  Not more, not less.
+* Feel free to use any dependency management and build tools : maven. gradle eg
+* Make sure your design and implementation is simple. It should do only the things specified in the application section.  Not more, not less.
 * Make sure your code includes unit tests. ( acceptance tests are bonus )
-* Feel free to use any java libraries you feel appropriate. spring-boot, resteasy, jersey eg
+* Feel free to use any java libraries you feel appropriate : spring-boot,  jersey , resteasy eg
 * Please do not use any database.  We are more interested in your Java skills 
 * Feel free to commit as often as you'd like. The more commits the better! 
 * We will be looking at how you approach the task (e.g. how you break it into sub-tasks) and how you structure your code to answer the questions
