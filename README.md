@@ -5,7 +5,7 @@ Please allow yourself at least 2 hours of uninterrupted time for this task, but 
 
 # The Application
 
-Your application needs to read the list of stores from this URL.
+Your application needs to read the list of stores from a remote URL given below. 
 
 https://github.com/pearsonpmcuk/codingchallenge/blob/master/stores.csv
 
